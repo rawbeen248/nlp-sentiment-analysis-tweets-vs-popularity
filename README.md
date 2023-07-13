@@ -17,11 +17,12 @@ Main features wrequired in a single dataframe to conduct this research are: twee
 The steps are explained along with the code in more details on the notebook.
 
 #### Datasets used: 
-
+___
 * Training Dataset: Dataset from Sentimnet140 (link: https://docs.google.com/file/d/0B04GJPshIjmPRnZManQwWEdTZjg/edit?resourcekey=0-betyQkEmWZgp8z0DFxWsHw)
 
 * Main Dataset: Available along with the notebook. 
 
 #### Libraries: 
+___
 You can find all the required libraries in requirements.txt file. And install those through terminal with this command:</br>
 !pip install -r requirements.txt
